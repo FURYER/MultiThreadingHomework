@@ -1,0 +1,14 @@
+C:\Users\furye\OneDrive\Рабочий стол\Homework\MultiThreadingHomework\bin\Debug\net8.0\MultiThreadingHomework.exe
+C:\Users\furye\OneDrive\Рабочий стол\Homework\MultiThreadingHomework\bin\Debug\net8.0\MultiThreadingHomework.deps.json
+C:\Users\furye\OneDrive\Рабочий стол\Homework\MultiThreadingHomework\bin\Debug\net8.0\MultiThreadingHomework.runtimeconfig.json
+C:\Users\furye\OneDrive\Рабочий стол\Homework\MultiThreadingHomework\bin\Debug\net8.0\MultiThreadingHomework.dll
+C:\Users\furye\OneDrive\Рабочий стол\Homework\MultiThreadingHomework\bin\Debug\net8.0\MultiThreadingHomework.pdb
+C:\Users\furye\OneDrive\Рабочий стол\Homework\MultiThreadingHomework\obj\Debug\net8.0\MultiThreadingHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furye\OneDrive\Рабочий стол\Homework\MultiThreadingHomework\obj\Debug\net8.0\MultiThreadingHomework.AssemblyInfoInputs.cache
+C:\Users\furye\OneDrive\Рабочий стол\Homework\MultiThreadingHomework\obj\Debug\net8.0\MultiThreadingHomework.AssemblyInfo.cs
+C:\Users\furye\OneDrive\Рабочий стол\Homework\MultiThreadingHomework\obj\Debug\net8.0\MultiThreadingHomework.csproj.CoreCompileInputs.cache
+C:\Users\furye\OneDrive\Рабочий стол\Homework\MultiThreadingHomework\obj\Debug\net8.0\MultiThreadingHomework.dll
+C:\Users\furye\OneDrive\Рабочий стол\Homework\MultiThreadingHomework\obj\Debug\net8.0\refint\MultiThreadingHomework.dll
+C:\Users\furye\OneDrive\Рабочий стол\Homework\MultiThreadingHomework\obj\Debug\net8.0\MultiThreadingHomework.pdb
+C:\Users\furye\OneDrive\Рабочий стол\Homework\MultiThreadingHomework\obj\Debug\net8.0\MultiThreadingHomework.genruntimeconfig.cache
+C:\Users\furye\OneDrive\Рабочий стол\Homework\MultiThreadingHomework\obj\Debug\net8.0\ref\MultiThreadingHomework.dll
